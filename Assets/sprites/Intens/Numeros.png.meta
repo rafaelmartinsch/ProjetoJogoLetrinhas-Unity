@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: d0f233f0a8c7baa43a3357ae65606d84
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Numeros
+    21300002: Numeros_0
+    21300004: Numeros_1
+    21300006: Numeros_2
+    21300008: Numeros_3
+    21300010: Numeros_4
+    21300012: Numeros_5
+    21300014: Numeros_6
+    21300016: Numeros_7
+    21300018: Numeros_8
+    21300020: Numeros_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Numeros_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 759
+        width: 121
+        height: 240
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Numeros_1
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 759
+        width: 153
+        height: 241
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Numeros_2
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 515
+        width: 159
+        height: 236
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Numeros_3
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 514
+        width: 161
+        height: 240
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Numeros_4
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 510
+        width: 159
+        height: 244
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Numeros_5
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 262
+        width: 133
+        height: 240
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Numeros_6
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 258
+        width: 157
+        height: 248
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Numeros_7
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 258
+        width: 158
+        height: 248
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Numeros_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 156
+        height: 248
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Numeros_9
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 759
+        width: 169
+        height: 233
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
